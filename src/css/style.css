@@ -1,0 +1,13 @@
+body {
+  background-color: #f8f9fa;
+}
+h1 {
+  color: #007bff;
+}
+#stationList {
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  padding: 20px;
+  border-radius: 5px;
+}
+
